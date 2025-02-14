@@ -1,5 +1,4 @@
 import classes from './LikeButton.module.css'
-
 export const LikeButton = ({
     text = "Press me",
     onClick = () => null,
